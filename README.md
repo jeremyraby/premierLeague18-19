@@ -2,7 +2,7 @@
 
 ## "WHISTLE!"
 
-I recently started watching Ted Lasso AppleTV+ and got interested in ~~soccer~~ football. Basic, I know, but it is what it is. As I was reading up on "the beautiful game," trying to figure out just what the heck "offside" is, I also realized I could probably use this to practice data analytics and kill two birds with one stone. Even though Ted thinks "success is not about wins and losses," most ~~soccer~~ football (dang it) fans seem to erm...respectfully... disagree. :goal_net::soccer:
+I recently started watching Ted Lasso AppleTV+ and got interested in ~~soccer~~ football. Basic, I know, but it is what it is. As I was reading up on "the beautiful game," trying to figure out just what the heck "offside" is, I also realized I could probably use this to practice data analytics and kill two birds with one stone. Even though Ted thinks "success is not about wins and losses," most ~~soccer~~ football (dang it) fans seem to erm...respectfully... disagree. :goal_net: :soccer:
 
 ## "Because if they were curious, they would have asked questions." :dart:
 
