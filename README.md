@@ -26,8 +26,14 @@ Players can make a foul a number of ways, including deliberately handling the ba
 
 The English Premier League doesn't have playoffs to determine season champions like American sports tend to have. Instead, clubs earn 3 points for each win, 1 point for draws, and 0 points for losses, with the points being tallied at the end of the season. These points are then used to determine which four clubs go on to play in one of several all-Europe championship leagues (UEFA), which clubs stay in the Premier League, and which  three clubs are "relegated," or demoted, and replaced by the three clubs being promoted from the English Football League Championship. :confounded:
 
+### "[W]here I'm from, you try to end the game in a tie, well, that might as well be the first sign of the Apocalypse."
+
+Since clubs get league points for draws instead of just wins, it seemed possible that a club could still win the league with more draws than wins. While this didn't happen in the 2018-2019 season, I did check to see how many matches ended in a draw. Surprisingly, at least to me, just under 20% of matches ended in draws. Even though 19% of matches isn't a small amount, I still thought draws would be a bit more common (I'll chalk it up to American ignorance).
+
+## "Our goal is to go out like Willie Nelson — on a high!"
+
+Overall this was an interesting project and I'm glad I got to learn more about both football (heyo!) and data analytics.
+
+# Stupid barking means it's over, right?
+
 Photo by <a href="https://unsplash.com/@timmybech?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Bechervaise</a> on <a href="https://unsplash.com/photos/_hjsopbklZ0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-
-> Stupid barking means it's over, right?
