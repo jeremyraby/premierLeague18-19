@@ -12,7 +12,7 @@ I originally found the data and initial questions for this project from [DataCam
 - What percentage of matches in a draw?
 - Does the number of red cards a team receives have an effect on its probability of winning a game?
 
-## Butts on Three! 1...2...
+## "Butts on Three! 1...2..."
 
 NOTES:
 
