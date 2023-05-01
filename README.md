@@ -32,8 +32,8 @@ Since clubs get league points for draws instead of just wins, it seemed possible
 
 ## "Our goal is to go out like Willie Nelson — on a high!"
 
-Overall this was an interesting project and I'm glad I got to learn more about both football (heyo!) and data analytics.
+Overall this was an interesting project and I'm glad I got to learn more about both football (there it is!) and data analytics.
+
+This repo contains the original .csv file, the Excel workbook I used to analyze the data and mock up the visualizations, and the PowrPoint presentation. GitHub doesn't support files as large as the PowerPoint, so I also have it uploaded as a PDF. The photo I used for the title slide is by <a href="https://unsplash.com/@timmybech?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Bechervaise</a> and I found it on <a href="https://unsplash.com/photos/_hjsopbklZ0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash.</a>
 
 # Stupid barking means it's over, right?
-
-Photo by <a href="https://unsplash.com/@timmybech?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Bechervaise</a> on <a href="https://unsplash.com/photos/_hjsopbklZ0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
