@@ -9,17 +9,25 @@ I recently started watching Ted Lasso AppleTV+ and got interested in ~~soccer~~ 
 I originally found the data and initial questions for this project from [DataCamp](https://www.datacamp.com/workspace/datasets/dataset-python-soccer), but actually downloaded the data on data.world, where the data dictionary is [located](https://data.world/chas/2018-2019-premier-league-matches/workspace/data-dictionary). I had to refer back to the data dictionary and several random websites to understand what all the fields meant, but I finally started to figure it out. DataCamp provided some prompts for analyzing this dataset, which I also found helpful:
 
 - What team commits the most fouls?
-- What percentage of matches in a draw?
+- What percentage of matches end in a draw?
 - Does the number of red cards a team receives have an effect on its probability of winning a game?
 
 ## "Butts on Three! 1...2..."
 
-NOTES:
+I used Microsoft Excel and Powerpoint for this project because I wanted to "get in some reps" with these tools. I started by checking for duplicate entries, misspellings, and such. The data were clean, so I moved on to answering the 3 questions from DataCamp.
 
-- make a pie chart about league wins vs draws
-- make some charts about Tottenham Hotspur
-  - Home/Away wins/draws/losses pie charts
-- write about why I chose Tottenham Hotspur
+### “Taking on a challenge is a lot like riding a horse, isn't it? If you're comfortable while you're doing it, you're probably doing it wrong.”
+
+Working through this dataset was actually more challenging than I anticipated. Maybe because I'm not used to analyzing sports data or maybe just because it's ~~soccer~~ football, but I had a hard time reading the pivot tables I'd make comparing teams with the other fields. I kept referring back to the larger data set, which I filtered by teams, and even the official records from the Premier League, to make sure I was understanding what I was reading. In the end, I think I learned a bit about the sport and how things work - at least how it went during the '18-'19 season.
+
+### Foul Play
+
+Players can make a foul a number of ways, including deliberately handling the ball and the confusing "offside," resulting in the referee issuing a yellow card. Red cards can be issued for egregious fouls, or for commiting a second yellow-card-offense, and result in the player being removed from the match. Getting a red card is especially bad for the player's club because that player can't be replaced and they'll continue the match a man down. This leads to an obvious question: Does the number of red cards a club gets affect their chances of winning? I found a slight inverse relationship between how many red cards a club got and how many matches they won over the course of the season (r = -0.30). Interestingly, there was a stronger relationship in how many total fouls a club earned and how many league points the club earned at the end of the season (r = -0.51).
+
+The English Premier League doesn't have playoffs to determine season champions like American sports tend to have. Instead, clubs earn 3 points for each win, 1 point for draws, and 0 points for losses, with the points being tallied at the end of the season. These points are then used to determine which four clubs go on to play in one of several all-Europe championship leagues (UEFA), which clubs stay in the Premier League, and which  three clubs are "relegated," or demoted, and replaced by the three clubs being promoted from the English Football League Championship. :confounded:
+
+Photo by <a href="https://unsplash.com/@timmybech?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Bechervaise</a> on <a href="https://unsplash.com/photos/_hjsopbklZ0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 
 > Stupid barking means it's over, right?
